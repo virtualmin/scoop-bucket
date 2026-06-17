@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.2.0/vmbb_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.3.0/vmbb_0.3.0_windows_amd64.zip",
             "bin": [
                 "vmbb.exe"
             ],
-            "hash": "42079775d419bccc60d96b3731b35c98a1117ae678c18b0d91c88fbd7a0793cb"
+            "hash": "5efeda2279163896ee8e6fcec8c5fbdec3117caf1df54277826bbbb7e2ebb493"
         },
         "arm64": {
-            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.2.0/vmbb_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.3.0/vmbb_0.3.0_windows_arm64.zip",
             "bin": [
                 "vmbb.exe"
             ],
-            "hash": "1396b29bb2771a5c635183bd7ad04ade4d6382325d6d5a7051cea059eb67f5f6"
+            "hash": "b14f5957a2fe008b9e134627556ac869191959cb5bf2484cf36628eaf92e88e0"
         }
     },
     "homepage": "https://github.com/virtualmin/virtualmin-backup-browser",
