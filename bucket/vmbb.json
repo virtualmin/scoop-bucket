@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.1.0/vmbb_0.1.0_windows_amd64.zip",
+            "bin": [
+                "vmbb.exe"
+            ],
+            "hash": "1bf1dd037b90b445f921fc5890ff60c57ebcff413b678b962199155e99fac7a4"
+        },
+        "arm64": {
+            "url": "https://github.com/virtualmin/virtualmin-backup-browser/releases/download/v0.1.0/vmbb_0.1.0_windows_arm64.zip",
+            "bin": [
+                "vmbb.exe"
+            ],
+            "hash": "997a536d9d100a684d514331837934d12570db8755099ee1c44fdd2f5ed64831"
+        }
+    },
+    "homepage": "https://github.com/virtualmin/virtualmin-backup-browser",
+    "license": "GPL-3.0-or-later",
+    "description": "Browse Virtualmin backup archives without Perl, GNU tar, or extra tools"
+}
